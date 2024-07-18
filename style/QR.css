@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 8em;
+}
+.section{
+    background-color: aliceblue;
+    padding:2em;
+    border-radius: 1em;
+    width: 20em;
+}
+#inpt{
+    padding: 1em;
+    border-radius: 1em;
+    width: 21.5em;
+}
+#btn{
+    color: white;
+    background-color: rgb(107, 107, 204);
+    padding: 1em;
+    border-radius: 1em;
+    margin-left: 6em;
+}
+#i{
+    padding-left: 5em;
+    padding-top: 2em;
+}
